@@ -1,4 +1,4 @@
-## Como iniciar e instalr
+## Como iniciar e instalar
 
 Primeiro vez que demora para projeto rodar:
 
