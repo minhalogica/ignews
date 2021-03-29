@@ -1,6 +1,6 @@
 ## Como iniciar e instalar
 
-Primeiro vez que demora para projeto rodar:
+Segue:
 
 ```bash
 npm run dev
